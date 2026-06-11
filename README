@@ -1,0 +1,20 @@
+🛠️ Passo a Passo: Criando o site no VS Code
+Para começar, nós vamos usar as três ferramentas básicas da web: HTML (a estrutura), CSS (o visual e as cores) e, se quiser alguma interatividade, um toque de JavaScript.
+
+Passo 1: Preparando o ambiente
+Baixe e instale o VS Code no seu computador.
+
+Crie uma pasta vazia na sua área de trabalho chamada Projeto-Agrinho.
+
+Abra o VS Code, vá em File > Open Folder (Arquivo > Abrir Pasta) e selecione a pasta que você criou.
+
+Crie dois arquivos dentro dela (clicando no ícone de novo arquivo):
+
+index.html (será a página principal)
+
+style.css (será o design do site)
+
+Passo 2: Estrutura do Site (index.html)
+Abra o arquivo index.html e cole o código abaixo. Ele já vem com uma estrutura limpa pensada no tema:
+Passo 3: O Visual Ecológico (style.css)
+Agora abra o arquivo style.css. Vamos dar ao site uma paleta de cores voltada à natureza (tons de verde, terra e branco) para conectar o visual ao tema.
